@@ -1,0 +1,21 @@
+{
+    "name": "memorable/cms",
+    "description": "cms_project",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    },
+    "autoload": {
+
+      "classmap": [
+
+          "classes"
+      ]
+
+    },
+    "authors": [
+        {
+            "name": "minh nguyen",
+            "email": "minhnguyen14432@gmail.com"
+        }
+    ]
+}
